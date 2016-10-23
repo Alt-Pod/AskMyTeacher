@@ -44,5 +44,6 @@ group :development, :test do
 
   #Custom Build
   gem 'slim'
+  gem 'devise'
 end
 
